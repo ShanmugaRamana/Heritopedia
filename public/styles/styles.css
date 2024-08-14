@@ -1,0 +1,90 @@
+.logo{
+    margin-left: 20px;
+}
+.logo img{
+    margin-top: 15px;
+}
+.logo h1{
+  font-family: "Quattrocento", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  padding-left: 30px;
+  font-weight: 400;
+}
+.logo p{
+    font-family: "Quattrocento", serif;
+    color: black;
+    font-weight: 300;
+    padding-left: 39px;
+    font-size: 20px;
+    margin-top: -20px;
+}
+.header nav{
+    margin-left: 540px;
+    margin-top: -60px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.header nav ul {
+    list-style-type: none;
+    padding:  0 ;
+}
+
+.header nav  ul li {
+    display: inline-block; /* Display list items horizontally */
+    margin-right: 65px;
+    text-decoration: none;
+    font-weight: 500;
+    cursor:pointer;
+}
+
+.header  button{
+    color: white;
+    background-color:black;
+    border-radius: 30px;
+    width:150%;
+    font-weight: 600;
+    margin-top: 0px;
+    cursor:pointer;
+    border: 0;
+    width: 120px;
+    font-size: 15px;
+    margin-left: 240px;
+    margin-top: -20px;
+    padding: 15px;    
+}
+.header nav ul li:hover {
+    text-decoration: underline;
+}
+
+.content  h1 {
+    font-family: "Playfair Display", serif;    
+    font-size: 37px;
+    font-weight: 500;
+    color:black;
+    margin-top: 470px;
+    margin-left: 340px;
+
+}
+.content p {
+    font-family: "Quattrocento", serif;
+    margin-left: 490px;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: -10px;
+}
+.content button{
+    margin-left: 450px;
+    background-color: transparent;
+    color: black;
+    font-size: 17px;
+    border-radius: 30px;
+    padding: 13px;
+    width: 200px;
+    margin-left: 670px;
+
+}
+.content .marketplace{
+    
+}
